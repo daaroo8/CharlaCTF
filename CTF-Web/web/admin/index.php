@@ -11,5 +11,6 @@
     <h1>Bienvenido al Panel de Administración</h1>
     <p>He dejado la última captura de red aquí para su análisis forense.</p>
     <a href="captura.pcap" style="color: #00ff00; font-size: 20px;">[ Descargar captura.pcap ]</a>
+    <p>Te doy una pista? La flag final llegarás cuando te la cocines tú mismo. ¡Buena suerte!</p>
 </body>
 </html>
