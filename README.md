@@ -22,7 +22,7 @@ Flag format: 47CON{...}
 ## 📁 Estructura del Proyecto
 
 Para quien quiera desplegar el reto en local, esta es la estructura del proyecto (construido de adentro hacia afuera):
-``text
+```text
 CHARLACTF/
 ├── .dist/                  # Directorios y configuraciones de entorno local
 ├── CTF-Web/                # Entorno vulnerable principal (Fase Web)
